@@ -1,0 +1,20 @@
+{
+    "name": "rowanfuchs/singlesession",
+    "description": "Laravel single session middleware",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rowan Fuchs",
+            "email": "rowanfuchs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "laravel/framework": ">=5"
+    },
+    "autoload": {
+        "psr-4": {
+            "rowanfuchs\\SingleSession\\": "src/"
+        }
+    }
+}
