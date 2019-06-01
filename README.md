@@ -2,6 +2,9 @@
 With this single session middleware Laravel will enforce a single session per user from any location.
 When a new session starts the old user will be logged out.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e2770a0fb6e9ac66143f/maintainability)](https://codeclimate.com/github/rowanfuchs/Laravel-single-session-middleware/maintainability)
+
 ### Installation
 
 Install with composer:
